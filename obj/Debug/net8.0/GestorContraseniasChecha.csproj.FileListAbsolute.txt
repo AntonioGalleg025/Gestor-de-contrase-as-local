@@ -1,0 +1,14 @@
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/bin/Debug/net8.0/GestorContraseniasChecha
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/bin/Debug/net8.0/GestorContraseniasChecha.deps.json
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/bin/Debug/net8.0/GestorContraseniasChecha.runtimeconfig.json
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/bin/Debug/net8.0/GestorContraseniasChecha.dll
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/bin/Debug/net8.0/GestorContraseniasChecha.pdb
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/obj/Debug/net8.0/GestorContraseniasChecha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/obj/Debug/net8.0/GestorContraseniasChecha.AssemblyInfoInputs.cache
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/obj/Debug/net8.0/GestorContraseniasChecha.AssemblyInfo.cs
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/obj/Debug/net8.0/GestorContraseniasChecha.csproj.CoreCompileInputs.cache
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/obj/Debug/net8.0/GestorContraseniasChecha.dll
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/obj/Debug/net8.0/refint/GestorContraseniasChecha.dll
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/obj/Debug/net8.0/GestorContraseniasChecha.pdb
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/obj/Debug/net8.0/GestorContraseniasChecha.genruntimeconfig.cache
+/Users/antoniogallego/Desktop/Proyectos/GestorContraseniasChecha/obj/Debug/net8.0/ref/GestorContraseniasChecha.dll
